@@ -1,3 +1,7 @@
+# FORK REASON
+
+Forked to fix this: https://github.com/segmentio/analytics-swift/pull/359
+
 # Analytics-Swift
 ![](https://github.com/segmentio/analytics-swift/actions/workflows/swift.yml/badge.svg)
 ![](https://img.shields.io/github/license/segmentio/analytics-swift)
